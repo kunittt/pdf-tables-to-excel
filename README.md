@@ -3,7 +3,7 @@
 ## Install
 
 ```
-$ uv tool install https://github.com/moriyku/pdf-tables-to-excel.git
+$ uv tool install https://github.com/kunittt/pdf-tables-to-excel.git
 ```
 
 ## Usage
